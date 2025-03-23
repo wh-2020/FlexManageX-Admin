@@ -1,0 +1,5 @@
+# 排除 dist 目录
+dist/
+
+# 确保 build 目录不被排除
+!build/
